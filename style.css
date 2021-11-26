@@ -1391,6 +1391,9 @@ video {
 .pag-btn {
   display: none;
 }
+.copy-text {
+  text-align: center;
+}
 }
 
 
