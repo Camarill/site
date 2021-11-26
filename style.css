@@ -1394,6 +1394,9 @@ video {
 .copy-text {
   text-align: center;
 }
+.menu-list-item:last-child {
+  margin-top: 10px;
+}
 }
 
 
