@@ -1297,7 +1297,7 @@ padding: 20px 10px;
     right: auto;
   }
   .mobile-list {
-    padding-left: 250px;
+    padding-left: 60px;
   }
   .first-block-text {
     padding: 12px;
@@ -1308,7 +1308,7 @@ padding: 20px 10px;
   }
   .mobile-block {
      background-size: 200%;
-    background-position-x: -252px;
+    background-position-x: -150px;
     background-position-y: bottom;
   }
   .footer-top {
