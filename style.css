@@ -1385,6 +1385,12 @@ video {
 .buy-it-text, .buy-it-header {
   text-align: center;
 }
+.recent-posts {
+  margin-bottom: 16px;
+}
+.pag-btn {
+  display: none;
+}
 }
 
 
