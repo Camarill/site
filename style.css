@@ -1290,6 +1290,7 @@ padding: 20px 10px;
     justify-content: flex-end;
     padding: 20px;
     box-sizing: border-box;
+    margin-bottom: 24px;
   }
   .mobile-text-wrp {
     position: inherit;
